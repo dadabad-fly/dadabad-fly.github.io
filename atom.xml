@@ -3,11 +3,11 @@
   <title>傅立叶叶叶&#39;s Blog</title>
   <icon>https://www.gravatar.com/avatar/6846e0d04b1e9f5376171dd36562c5da</icon>
   <subtitle>代码漫漫，上下求索</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://dadabad-fly.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://dadabad-fly.github.io/"/>
   <updated>2023-09-15T08:45:33.735Z</updated>
-  <id>http://example.com/</id>
+  <id>https://dadabad-fly.github.io/</id>
   
   <author>
     <name>傅立叶叶叶</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇Hexo文章</title>
-    <link href="http://example.com/undefined/324eb1bd.html"/>
-    <id>http://example.com/undefined/324eb1bd.html</id>
+    <link href="https://dadabad-fly.github.io/undefined/324eb1bd.html"/>
+    <id>https://dadabad-fly.github.io/undefined/324eb1bd.html</id>
     <published>2023-09-14T13:21:49.000Z</published>
     <updated>2023-09-15T08:45:33.735Z</updated>
     
@@ -42,8 +42,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/undefined/4a17b156.html"/>
-    <id>http://example.com/undefined/4a17b156.html</id>
+    <link href="https://dadabad-fly.github.io/undefined/4a17b156.html"/>
+    <id>https://dadabad-fly.github.io/undefined/4a17b156.html</id>
     <published>2023-09-14T13:09:51.006Z</published>
     <updated>2023-09-15T08:45:33.733Z</updated>
     
