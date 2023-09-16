@@ -92,5 +92,16 @@
     </entry>
     
     
+    
+    <entry>
+      <title>测试页面</title>
+      <link href="/pages/demo.html"/>
+      <url>/pages/demo.html</url>
+      
+        <content type="html"><![CDATA[<p>我是测试内容</p><hr>]]></content>
+      
+    </entry>
+    
+    
   
 </search>
