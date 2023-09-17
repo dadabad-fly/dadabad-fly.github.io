@@ -6,7 +6,7 @@
   <link href="https://myblog.luojunda123.top/atom.xml" rel="self"/>
   
   <link href="https://myblog.luojunda123.top/"/>
-  <updated>2023-09-17T04:09:15.152Z</updated>
+  <updated>2023-09-17T13:06:47.226Z</updated>
   <id>https://myblog.luojunda123.top/</id>
   
   <author>
@@ -17,39 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://myblog.luojunda123.top/undefined/4a17b156.html"/>
-    <id>https://myblog.luojunda123.top/undefined/4a17b156.html</id>
-    <published>2023-09-17T04:09:15.152Z</published>
-    <updated>2023-09-17T04:09:15.152Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>我的第一篇Hexo文章</title>
     <link href="https://myblog.luojunda123.top/undefined/324eb1bd.html"/>
     <id>https://myblog.luojunda123.top/undefined/324eb1bd.html</id>
     <published>2023-09-14T21:21:49.000Z</published>
-    <updated>2023-09-17T04:09:15.152Z</updated>
+    <updated>2023-09-17T13:06:47.226Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="初入Hexo"><a href="#初入Hexo" class="headerlink" title="初入Hexo"></a>初入Hexo</h2><blockquote><p>  Hexo是一个快速、简洁且强大的静态博客框架。<br>    它基于Node.js开发，使用Markdown语法来书写文章，并通过预设的模板生成静态网页。<br>    它具有快速编译、多主题支持、插件丰富等特点，适用于个人博客、技术文档等各种静态网站的构建。<br>    通过Hexo，用户可以轻松地管理和发布自己的网站内容，并提供了丰富的插件和主题供用户选择和使用。<br>    与其他博客框架相比，Hexo具有简单易用、灵活可扩展等优势，被广泛应用于静态网站的搭建和维护。</p></blockquote><div class="tip "><p>面向新手的建站框架</p></div><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><p><a href="https://www.baidu.com">https://www.baidu.com</a><br><a href="https://www.bilibili.com/video/BV13v4y1c75G?vd_source=edb25add8db60dbb578843f8cba1aa46">https://www.bilibili.com/video/BV13v4y1c75G?vd_source=edb25add8db60dbb578843f8cba1aa46</a></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>Written with <a href="https://stackedit.cn/">StackEdit中文版</a>.</p><h2 id="初入Hexo博客框架"><a href="#初入Hexo博客框架" class="headerlink" title="初入Hexo博客框架"></a>初入Hexo博客框架</h2><h3 id="Hexo简介"><a href="#Hexo简介" class="headerlink" title="Hexo简介"></a>Hexo简介</h3><p>Hexo是一个快速、简洁且强大的静态博客框架。</p></blockquote><p>它基于Node.js开发，使用Markdown语法来书写文章，并通过预设的模板生成静态网页。</p><p>它具有快速编译、多主题支持、插件丰富等特点，适用于个人博客、技术文档等各种静态网站的构建。</p><p>通过Hexo，用户可以轻松地管理和发布自己的网站内容，并提供了丰富的插件和主题供用户选择和使用。</p><p>与其他博客框架相比，Hexo具有简单易用、灵活可扩展等优势，被广泛应用于静态网站的搭建和维护。</p><h3 id="Hexo的使用感想"><a href="#Hexo的使用感想" class="headerlink" title="Hexo的使用感想"></a>Hexo的使用感想</h3><p>Hexo是一款是一款非常友好的面向新手的博客框架，作为一个前端小白，可以轻松理解其配置文件的含义并建立了属于自己的博客网站。</p><h3 id="Butterfly主题简介"><a href="#Butterfly主题简介" class="headerlink" title="Butterfly主题简介"></a>Butterfly主题简介</h3><p>Butterfly主题是一种开源的、响应式的博客主题。</p><p>它提供了简洁、美观的界面和丰富的功能，适用于个人博客、技术博客等多种场景。</p><p>Butterfly主题支持多种语言、主题定制、代码高亮、文章分类、标签云等功能，同时也具有快速加载和良好的用户体验。</p><p>它是Hexo博客框架的一个非常受欢迎的主题之一。</p><h3 id="Butterfly的使用感想"><a href="#Butterfly的使用感想" class="headerlink" title="Butterfly的使用感想"></a>Butterfly的使用感想</h3><p>通过Butterfly主题，博主可以自定义、美化渲染自己博客的样式，并添加各式各样的功能插件。</p><h2 id="学习参考"><a href="#学习参考" class="headerlink" title="学习参考"></a>学习参考</h2><p>==安知鱼云==dalao的Hexo成套学习视频</p><iframe src="//player.bilibili.com/player.html?aid=556933559&bvid=BV13v4y1c75G&cid=800077849&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;初入Hexo&quot;&gt;&lt;a href=&quot;#初入Hexo&quot; class=&quot;headerlink&quot; title=&quot;初入Hexo&quot;&gt;&lt;/a&gt;初入Hexo&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;  Hexo是一个快速、简洁且强大的静态博客框架。&lt;br&gt;    它基于Node.</summary>
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Written with &lt;a href=&quot;https://stackedit.cn/&quot;&gt;StackEdit中文版&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;初入Hexo博客框架&quot;&gt;&lt;a href=&quot;#初入Hexo博客框架&quot; class=&quot;headerli</summary>
       
     
     
