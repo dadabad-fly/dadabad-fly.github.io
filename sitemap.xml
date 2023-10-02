@@ -47,6 +47,24 @@
   </url>
   
   <url>
+    <loc>https://myblog.luojunda123.top/undefined/c5e230a.html</loc>
+    
+    <lastmod>2023-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://myblog.luojunda123.top/undefined/62b7b468.html</loc>
+    
+    <lastmod>2023-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://myblog.luojunda123.top/undefined/f35acf61.html</loc>
     
     <lastmod>2023-10-02</lastmod>
@@ -75,6 +93,27 @@
   
   <url>
     <loc>https://myblog.luojunda123.top/tags/%E8%B5%B7%E7%82%B9/</loc>
+    <lastmod>2023-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://myblog.luojunda123.top/tags/%E5%8D%95%E9%93%BE%E8%A1%A8/</loc>
+    <lastmod>2023-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://myblog.luojunda123.top/tags/%E5%BE%AA%E7%8E%AF%E9%93%BE%E8%A1%A8/</loc>
+    <lastmod>2023-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://myblog.luojunda123.top/tags/%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8/</loc>
     <lastmod>2023-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
